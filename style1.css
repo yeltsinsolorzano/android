@@ -55,7 +55,7 @@ header p {
     font-family: var(--fuente-predeterminada);
     max-width: 600px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 nav {
